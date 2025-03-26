@@ -1,0 +1,17 @@
+## Interface: 50403
+## Title: PandariaTetris
+## Notes: A Tetris-style game themed around Mists of Pandaria
+## Author: Claude
+## Version: 1.0
+## SavedVariables: PandariaTetrisHighScores
+
+# Libraries
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\AceAddon-3.0\AceAddon-3.0.lua
+libs\AceConsole-3.0\AceConsole-3.0.lua
+libs\AceEvent-3.0\AceEvent-3.0.lua
+libs\AceTimer-3.0\AceTimer-3.0.lua
+
+# Main Addon Files
+PandariaTetris.lua
